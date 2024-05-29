@@ -36,11 +36,11 @@ highlights:
       background-size: initial
     features:
       - title: MacOS
-        icon: clipboard-check
+        icon: /assets/icon/apple.svg
         details: 支持 MacOS Intel 和 Apple Silicon 
 
       - title: Windows
-        icon: box-archive
+        icon: /assets/icon/windows.svg
         details: 支持 Windows 8 以及以上
 
       - title: uTools
