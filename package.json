@@ -1,7 +1,7 @@
 {
   "name": "u-widget-app-docs",
   "version": "2.0.0",
-  "description": "A project of vuepress-theme-hope",
+  "description": "小组件，大世界，尽在元组件桌面",
   "license": "MIT",
   "type": "module",
   "scripts": {

@@ -6,7 +6,7 @@ export default defineUserConfig({
 
   lang: "zh-CN",
   title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
+  description: "小组件，大世界，尽在元组件桌面",
   theme,
 
   // 和 PWA 一起启用
