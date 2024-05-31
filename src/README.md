@@ -44,7 +44,7 @@ highlights:
         details: 支持 Windows 8 以及以上
 
       - title: uTools
-        icon: bell
+        icon: /assets/icon/utools.svg
         details: 新一代效率工具平台
         link: https://u.tools/?c=y8sssfuqxm
         
