@@ -4,3 +4,14 @@
     flex-basis: calc(28% - 3rem)
   }
 }
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* 表格头部和单元格样式 */
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
