@@ -44,6 +44,7 @@ export default hopeTheme({
 
   // 在这里配置主题提供的插件
   plugins: {
+
     // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
     // comment: {
     //   provider: "Giscus",
@@ -56,7 +57,8 @@ export default hopeTheme({
     components: {
       components: ["Badge", "VPCard"],
     },
-
+    // 搜索
+    searchPro: true,
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
     mdEnhance: {
       align: true,
